@@ -5,6 +5,10 @@ VisualStudioVersion = 25.0.1706.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TerzaProva", "TerzaProva\TerzaProva.csproj", "{AF7A53CE-0730-48BC-93FD-36F857D33355}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayDiNomi", "ArrayDiNomi\ArrayDiNomi.csproj", "{329CD00C-4F6F-4BEB-AF53-480F4E25E3DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TerzoEs", "TerzoEs\TerzoEs.csproj", "{4D342116-D672-4D93-A6AA-A6E7DAA13C59}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{AF7A53CE-0730-48BC-93FD-36F857D33355}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF7A53CE-0730-48BC-93FD-36F857D33355}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF7A53CE-0730-48BC-93FD-36F857D33355}.Release|Any CPU.Build.0 = Release|Any CPU
+		{329CD00C-4F6F-4BEB-AF53-480F4E25E3DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{329CD00C-4F6F-4BEB-AF53-480F4E25E3DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{329CD00C-4F6F-4BEB-AF53-480F4E25E3DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{329CD00C-4F6F-4BEB-AF53-480F4E25E3DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D342116-D672-4D93-A6AA-A6E7DAA13C59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D342116-D672-4D93-A6AA-A6E7DAA13C59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D342116-D672-4D93-A6AA-A6E7DAA13C59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D342116-D672-4D93-A6AA-A6E7DAA13C59}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
