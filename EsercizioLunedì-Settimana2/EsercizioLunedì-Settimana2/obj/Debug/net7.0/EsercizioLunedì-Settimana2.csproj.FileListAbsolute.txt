@@ -1,0 +1,15 @@
+/Users/lucapintimalli/Documents/GitHub/Modulo1-BE/EsercizioLunedì-Settimana2/EsercizioLunedì-Settimana2/obj/Debug/net7.0/EsercizioLunedì-Settimana2.csproj.AssemblyReference.cache
+/Users/lucapintimalli/Documents/GitHub/Modulo1-BE/EsercizioLunedì-Settimana2/EsercizioLunedì-Settimana2/obj/Debug/net7.0/EsercizioLunedì-Settimana2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucapintimalli/Documents/GitHub/Modulo1-BE/EsercizioLunedì-Settimana2/EsercizioLunedì-Settimana2/obj/Debug/net7.0/EsercizioLunedì-Settimana2.AssemblyInfoInputs.cache
+/Users/lucapintimalli/Documents/GitHub/Modulo1-BE/EsercizioLunedì-Settimana2/EsercizioLunedì-Settimana2/obj/Debug/net7.0/EsercizioLunedì-Settimana2.AssemblyInfo.cs
+/Users/lucapintimalli/Documents/GitHub/Modulo1-BE/EsercizioLunedì-Settimana2/EsercizioLunedì-Settimana2/obj/Debug/net7.0/EsercizioLunedì-Settimana2.csproj.CoreCompileInputs.cache
+/Users/lucapintimalli/Documents/GitHub/Modulo1-BE/EsercizioLunedì-Settimana2/EsercizioLunedì-Settimana2/bin/Debug/net7.0/EsercizioLunedì-Settimana2
+/Users/lucapintimalli/Documents/GitHub/Modulo1-BE/EsercizioLunedì-Settimana2/EsercizioLunedì-Settimana2/bin/Debug/net7.0/EsercizioLunedì-Settimana2.deps.json
+/Users/lucapintimalli/Documents/GitHub/Modulo1-BE/EsercizioLunedì-Settimana2/EsercizioLunedì-Settimana2/bin/Debug/net7.0/EsercizioLunedì-Settimana2.runtimeconfig.json
+/Users/lucapintimalli/Documents/GitHub/Modulo1-BE/EsercizioLunedì-Settimana2/EsercizioLunedì-Settimana2/bin/Debug/net7.0/EsercizioLunedì-Settimana2.dll
+/Users/lucapintimalli/Documents/GitHub/Modulo1-BE/EsercizioLunedì-Settimana2/EsercizioLunedì-Settimana2/bin/Debug/net7.0/EsercizioLunedì-Settimana2.pdb
+/Users/lucapintimalli/Documents/GitHub/Modulo1-BE/EsercizioLunedì-Settimana2/EsercizioLunedì-Settimana2/obj/Debug/net7.0/EsercizioLunedì-Settimana2.dll
+/Users/lucapintimalli/Documents/GitHub/Modulo1-BE/EsercizioLunedì-Settimana2/EsercizioLunedì-Settimana2/obj/Debug/net7.0/refint/EsercizioLunedì-Settimana2.dll
+/Users/lucapintimalli/Documents/GitHub/Modulo1-BE/EsercizioLunedì-Settimana2/EsercizioLunedì-Settimana2/obj/Debug/net7.0/EsercizioLunedì-Settimana2.pdb
+/Users/lucapintimalli/Documents/GitHub/Modulo1-BE/EsercizioLunedì-Settimana2/EsercizioLunedì-Settimana2/obj/Debug/net7.0/EsercizioLunedì-Settimana2.genruntimeconfig.cache
+/Users/lucapintimalli/Documents/GitHub/Modulo1-BE/EsercizioLunedì-Settimana2/EsercizioLunedì-Settimana2/obj/Debug/net7.0/ref/EsercizioLunedì-Settimana2.dll
